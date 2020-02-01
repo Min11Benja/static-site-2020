@@ -1,0 +1,17 @@
+.header-menu {
+
+    z-index: -1;
+    display: block;
+
+}
+.header-menu {
+    background: #006e9e;
+    color: #fff;
+    text-shadow: none;
+    padding-top: 1px;
+
+}
+
+.menu-main{
+    min-height: 40px;
+}
