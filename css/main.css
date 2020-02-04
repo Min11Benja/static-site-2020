@@ -263,3 +263,12 @@ textarea {
   }
 }
 
+a {
+  text-decoration: none;
+}
+body{
+  background-color: #999;
+}
+:root {
+  --mainColor: #ff9800;
+}
